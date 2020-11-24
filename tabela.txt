@@ -1,0 +1,164 @@
+Tratamento de doença e de atenção à saúde do aluno
+
+1 a - Doença/problemas físicos 
+1 b - Doença/problemas psicológicos/mentais 
+1 c - Pós-parto/gravidez de risco/TPM 
+
+Doença na família/óbito na família/óbito do aluno 
+
+2 a - Óbito do aluno 
+2 b - Doença de pessoa da família prejudicando a frequência do aluno à escola 
+2 c - Óbito de pessoa da família prejudicando a frequência do aluno à escola
+
+Fatos que impedem o deslocamento/acesso do aluno à escola 
+
+4 a - Enchente 
+4 b - Falta de transporte 
+4 c - Estradas intransitáveis 
+4 d - Violência na área onde mora 
+4 e - Inexistência de pessoa para levar à escola 
+4 f - Grande distancia entre a residência e a escola 
+4 g - Outro 
+
+Concluiu o Ensino Médio  
+
+
+6 a - Sabe-se que ingressou no Ensino Superior  
+6 b - Sabe-se que ingressou no Ensino Técnico Profissionalizante ou outro curso 
+6 c-Não se sabe se houve continuidade nos estudos
+
+Suspensão escolar 
+
+7 a - Com tarefas domiciliares 
+7 b-Sem tarefas domiciliares
+
+EJA Semipresencial 
+
+
+8 a - Com acompanhamento regular 
+8 b-Sem acompanhamento regular
+
+Situação coletiva que impede a escola de receber seus alunos 
+
+9 a - Férias escolares 
+9 b - Greve 
+9 c - Calamidade pública que atingiu a escola ou exigiu o uso do espaço como abrigamento 
+9 d - Escola sem professor  
+9 e - Reforma geral da escola 
+9 f - Escola fechada por situação de violência 
+9 g - Falta de merenda escolar 
+9 h - Outro
+
+Participação em jogos estudantis/atividade escolar extra-classe 
+
+
+10 a - Considerada atividade escolar 
+10 b - Não é considerada como atividade escolar 
+
+Preconceito/Discriminação no ambiente escolar/bullying 
+
+11 a -A escola está agindo no enfrentamento do problema
+11 b - A escola ainda não está agindo no enfrentamento do problema
+
+Ausência às aulas por respeito às questões culturais, étnicas ou religiosas: 
+
+12 a - Indígenas 
+12 b - Circenses 
+12 c - Ciganos 
+12 d - Opções religiosas 
+12 e - População de rua
+
+Gravidez 
+
+51 a - Gravidez de risco (sistema lançará para o motivo 1) 
+51 b - Não é gravidez de risco
+
+Situação de rua 
+
+52 a - A escola sabe que o aluno conta com o acompanhamento da rede de proteção local (Cons. Tutelar/CRAS/CREAS)
+52 b - A escola não sabe se conta com acompanhamento da rede de proteção social.
+
+Negligência dos pais ou responsáveis  
+
+53 a - A escola examinou a questão com as famílias 
+53 b - A escola não abordou esta questão com as famílias
+
+Trabalho infantil 
+
+54 a - A escola sabe que o aluno conta com atenção da rede local de proteção e/ou participa do PETI 
+54 b - A escola não sabe se o aluno conta com acompanhamento da rede de proteção local
+
+Motivo da baixa frequência não foi informado 
+
+58 a - A escola não procurou saber o motivo junto à família 
+58 b - A escola esclarece que a família não informou o motivo 
+58 c - A escola, apesar de solicitada, não informou o motivo  
+58 d - Não foi identificado motivo adequado nesta tabela
+
+Violência/Agressividade no ambiente escolar 
+
+60 a - A escola está atuando no enfrentamento da situação 
+60 b - A escola ainda não está atuando no enfrentamento da situação
+
+Trabalho do Jovem 
+
+62 a - Emprego formal (a partir de 16 anos) 
+62 b - Estagiário sem vinculo empregatício 
+62 c - Trabalho informal
+
+Exploração/Abuso Sexual 
+
+63 a - A escola sabe que a rede de proteção local já foi acionada/comunicada 
+63 b - A escola não sabe se a rede de proteção foi acionada/comunicada 
+
+Desinteresse/Desmotivação pelos estudos 
+
+64 a - A escola vem agindo para identificar as causas dessa situação 
+64 b - A escola não tem procurado identificar as causas dessa situação
+
+Abandono Escolar/ Desistência 
+
+65 a - A Escola vem agindo para identificar as causas desse comportamento 
+65 b - A Escola não tem conseguido agir em relação a essa situação
+
+Questões sociais, educacionais e/ou familiares 
+
+68 a - Separação dos pais 
+68 b - Necessidade de cuidar de familiares (idoso, criança, pessoa com deficiência) 
+68 c - Viagem com a família (trabalho sazonal/agricultura temporária/colheita/outros) 
+68 d - Casamento do(a) Aluno(a) – Atualizar cadastro familiar 
+68 e - Falta de uniforme/calçado/roupa adequada 
+68 f - Pais “sem domínio” dos filhos/relação familiar precária 
+68 g - Família desconhece as faltas da criança às aulas
+68 h - Aluno com deficiência/necessidades especiais sem apoio/estimulação para permanecer na escola
+
+Envolvimento com drogas/atos infracionais 
+
+70 a - A escola sabe que foi encaminhado aos órgãos competentes 
+70 b-A escola não sabe se houve encaminhamento adequado 
+
+Violência Doméstica 
+
+71 a - A escola sabe que a criança já foi encaminhada à rede de proteção social 
+71 b - A escola não sabe se a criança foi encaminhada à rede de proteção social
+
+Conjunto B – Beneficiário sem vínculo escolar/matrícula escolar. (O beneficiário colocado neste Conjunto receberá zero de frequência sendo que estes registros não serão computados no quantitativo do relatório de baixa frequência).  
+
+CARACTERIZAÇÃO DE SITUAÇÕES 
+Beneficiário sem vínculo/matrícula escolar por uma das situações abaixo caracterizadas: 
+
+72 a - Inexistência de ensino fundamental na comunidade em que mora 
+72 b - Inexistência de ensino médio no território onde mora 
+72 c - Inexistência de serviços educacionais para acampados/ciganos/circenses/itinerantes. 
+72 d - Inexistência de serviços educacionais em situação de internação/privação de liberdade/internação em clínica ou hospital 
+72 e - Inexistência de escola indígena no território onde mora. 
+72 f - Concluiu o ensino fundamental/EJA e inexiste oferta imediata da etapa seguinte. 
+72 g - Beneficiárioconcluiu o Ensino Médio72 h-Inexistência de atendimento educacional especializado para beneficiário com deficiência/necessidade educacional específica. 
+72 i - Inexistência de transporte/locomoção acessível à escola para beneficiário com deficiência/necessidade especial. 
+72 j - Questões de resistência dafamília para que o beneficiário com deficiência/necessidade especial frequente a escola. 
+72 k - Inexistência de acessibilidade no ambiente escolar para o beneficiário com deficiência/necessidade especial. 
+72 l - Negativa da escola em receber a criança com deficiência/necessidade especial alegando falta de vaga 
+72 m - Transferência em andamento/pendente – permanecendo sem solução/aceite, após o encerramento de 02 (dois) períodos de coleta, o beneficiário será lançado como Não Localizado no município de origem do cadastro familiar. 
+72 n - Beneficiário sem vínculo/matrícula escolarfoi encontrado,mas não quer mais estudar. 
+72 o - Beneficiário sem vínculo/matricula escolar foi identificado em condição deóbito (falecido). 
+72 p - Beneficiário com dados errados impedindo a identificação pela escola (nome errado/data de nascimento errada/NIS duplicado)N
